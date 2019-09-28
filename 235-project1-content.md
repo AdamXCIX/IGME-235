@@ -34,7 +34,12 @@ The player needs to grow accustomed to when it is safe to continue, and when the
 The game will become harder as they progress, so learning how to move safely will be crucial.  
 
 ## Screenshots  
+### Background  
+![Forest Background](forest.png)  
+### Hiding From Enemies  
 ![Gameplay Mockup](hiding.png)
+
+
 ## Other  
 
 ## About  
