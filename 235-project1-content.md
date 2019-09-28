@@ -5,6 +5,7 @@
 ## Genre  
 
 ## Platform  
+Desktop only, but will be made mobile-friendly if time allows.  
 
 ## Story  
 
@@ -13,9 +14,9 @@ Graphics:
 Sound:  
 
 ## Gameplay  
-Mechanics:
-Controls:
-Onboarding:
+Mechanics:  
+Controls:  
+Onboarding:  
 Player Learning:  
 
 ## Screenshots  
