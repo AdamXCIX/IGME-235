@@ -1,7 +1,7 @@
 # Game Treatment  
 
 ## High Concept  
-Make it through the dark forest while hiding from monsters.  
+Traverse through the dark forest while hiding from monsters. 
 If they spot you, run until they can't see you anymore, then stay out of sight.
 
 ## Genre  
