@@ -18,7 +18,7 @@ as she makes her way home.
 
 ## Aesthetics  
 Graphics: Simple, 8-bit or cartoon sprites  
-Sound: Ambient noise, enemy sounds, heartbeats when enemies chasde you  
+Sound: Ambient noise, enemy sounds, heartbeats when enemies chase you  
 
 ## Gameplay  
 ### Mechanics  
