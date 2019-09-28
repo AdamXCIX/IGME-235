@@ -34,7 +34,7 @@ The player needs to grow accustomed to when it is safe to continue, and when the
 The game will become harder as they progress, so learning how to move safely will be crucial.  
 
 ## Screenshots  
-
+![Gameplay Mockup][hiding]
 ## Other  
 
 ## About  
