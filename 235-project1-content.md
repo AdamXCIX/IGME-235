@@ -37,7 +37,7 @@ The game will become harder as they progress, so learning how to move safely wil
 ### Background  
 ![Forest Background](forest.png)  
 ### Hiding From Enemies  
-![Gameplay Mockup](hiding.png)
+![Gameplay Mockup](hiding2.png)
 
 
 ## Other  
