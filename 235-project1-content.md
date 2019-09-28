@@ -44,7 +44,7 @@ The game will become harder as they progress, so learning how to move safely wil
 
 ## About  
 Name: Triton Adamski  
-Major: Game Design ansd Development  
+Major: Game Design and Development  
 Year: Sophomore  
 Skills and Interests: Programming, Physics, Maya, Music, Art  
 
