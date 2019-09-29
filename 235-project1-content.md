@@ -7,6 +7,7 @@ If they spot you, run until they can't see you anymore, then stay out of sight.
 ## Genre  
 Horror  
 Puzzle  
+Sidescroller  
 
 ## Platform  
 Desktop only, but will be made mobile-friendly if time allows.  
