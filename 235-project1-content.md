@@ -18,7 +18,7 @@ The forest is full of terrifying monsters, and the girl needs to hide to prevent
 as she makes her way home.
 
 ## Aesthetics  
-Graphics: Simple, 8-bit or cartoon sprites  
+Graphics: Simple 8-bit or cartoon sprites  
 Sound: Ambient noise, enemy sounds, heartbeats when enemies chase you  
 
 ## Gameplay  
